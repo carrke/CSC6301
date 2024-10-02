@@ -14,7 +14,7 @@ java Main.java
 ## Documentation
 Documentation can be generated via javadocs
 ```
-javadoc -d docs *.java
+javadoc -public -d docs *.java
 ```
 Then viewed through docs/index.html
 
