@@ -9,9 +9,7 @@
  * @since CSC6301 Week 4
  */
 public abstract class App {
-    /**
-     * 
-     */
+    
     protected DataStore dataStore;
     protected DataRequester dataRequester;
     /**
