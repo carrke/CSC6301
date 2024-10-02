@@ -36,7 +36,7 @@ public class SimpleDataStore implements DataStore{
     /**
      * Provides data as a linked list
      * 
-     * @return LinkedList<Integer>
+     * @return a Linked List of Integers
      */
     public LinkedList<Integer> get_data() {
         return this.data;

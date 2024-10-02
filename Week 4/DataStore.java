@@ -22,7 +22,7 @@ public interface DataStore {
     public void sort();
     /**
      * Provide stored data to requester
-     * @return LinkedList<Integer>
+     * @return a Linked List of Integers
      */
     public LinkedList<Integer> get_data();
 }
